@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.log
+.env
+modal_downloader.py
+n8n_workflow.json
+*.txt
+!requirements.txt
+!GUIA_RENDER.txt
